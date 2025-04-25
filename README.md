@@ -9,7 +9,7 @@ Download Sentinel-2 products using eodag
 
 > Polygon does not have to cover the whole Sentinel tile. If it falls inside it the whole SAFE file is downloaded.
 
-All data are downloaded inside the `sentinel-2` directory. It can be changed inside `the main.py`.
+All data are downloaded inside the `sentinel-2` directory. It can be changed inside the `main.py`.
 
 ![alt text](https://github.com/Xritsos/Download-Sentinel-2/blob/main/images/image.png?raw=true)
 
